@@ -10,14 +10,10 @@
   
 # 💫About Me :
   
-🔭 I’m currently studying at @HCMUTE .
-  
-🌱 I’m currently learning to follow backend developer
+🌱 I’m currently learning to follow Fullstack developer
 
 📫 How to reach me:  
  Mail me at "tringuyen2762001@gmail.com"
-
-⚡ Fun fact: Always try my best
 
 ## 🌐Socials
 
